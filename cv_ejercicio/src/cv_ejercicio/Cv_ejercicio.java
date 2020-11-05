@@ -18,7 +18,8 @@ public class Cv_ejercicio {
     public static void main(String[] args) {
         System.out.println("Bienvenidos");
         System.out.println("Integrando Netbeans con GitHud");
-        System.out.println("Version_0");
+        System.out.println("Version_1");
+        System.out.println("Modified by adenom3");
     }
     
 }
